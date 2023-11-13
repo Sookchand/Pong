@@ -14,7 +14,8 @@ I would like to thank Dr. Angela Yu.
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Pong](https://github.com/Sookchand/Pong/assets/34344439/bf1f1d95-cb84-4ebd-bc5c-d780ab8563c4)
+
 
 
 ## Tech Stack
